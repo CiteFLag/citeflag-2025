@@ -75,7 +75,7 @@
 - [**Hatim (xtle0o0)**](https://github.com/xtle0o0) - Forensics, Pwn, Reverse Engineering, Web, Cryptography, Wireless Pentesting, Misc, OSINT 
 - [**Abdennour (Gh000st12)**](https://github.com/Gh000st12) - OSINT and Misc challenges
 
-## Dashboard
+## Leaderboard
 
 ![Dashboard](https://i.postimg.cc/NM7jVnTS/90846825-0861-462-B-8-F81-27-E4-F6-D9-F514.png)
 
